@@ -394,19 +394,3 @@ Through this project, the following cybersecurity concepts are explored:
 - Document false-positive testing and detection tuning.
 
 ---
-
-## 👨‍💻 Author
-
-**Akash Reddy**
-
-GitHub: [@akashreddygaddam](https://github.com/akashreddygaddam)
-
-Project: Active Directory Detection Engineering Lab
-
-This repository is maintained as an independent cybersecurity learning and portfolio project.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
