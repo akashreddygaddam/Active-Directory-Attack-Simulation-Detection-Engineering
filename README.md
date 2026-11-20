@@ -1,4 +1,4 @@
-# 🛡️ Active Directory Detection Engineering
+# 🛡️ Active Directory Attack Simulation & Detection Engineering
 
 ### Enterprise Active Directory Attack Simulation, Threat Detection & Incident Response
 
